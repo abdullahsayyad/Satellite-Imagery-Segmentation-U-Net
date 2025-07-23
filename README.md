@@ -2,11 +2,11 @@
 This repository implements **semantic segmentation** on high-resolution **satellite imagery** using the **U-Net architecture**, achieving a **test accuracy of 85%**. The goal is to identify and classify different land cover types such as buildings, roads, vegetation, and more at the pixel level.
 
 
-**Jupyter notebooks are not functioning on github properly currently, click the link below to biew the code**
-**https://colab.research.google.com/drive/1Ax3QFJVnxTack9uojcxjwAxNvA8IP0C3?usp=sharing**
 
 <img src="example/image.png" width="400"/>
 
+**Jupyter notebooks are not functioning on github properly currently, click the link below to biew the code**
+**https://colab.research.google.com/drive/1Ax3QFJVnxTack9uojcxjwAxNvA8IP0C3?usp=sharing**
 
 ## 📂 Dataset
 
