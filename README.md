@@ -3,6 +3,8 @@ This repository implements **semantic segmentation** on high-resolution **satell
 
 
 <img src="example/image.png" width="400"/>
+**Jupyter notebooks are not functioning on gtihub properly currently, click the link below to biew the code**
+https://colab.research.google.com/drive/1Ax3QFJVnxTack9uojcxjwAxNvA8IP0C3?usp=sharing
 
 
 ## 📂 Dataset
