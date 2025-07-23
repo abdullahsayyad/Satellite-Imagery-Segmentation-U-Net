@@ -1,6 +1,10 @@
 # Semantic segmentation of satellite imagery
 This repository implements **semantic segmentation** on high-resolution **satellite imagery** using the **U-Net architecture**, achieving a **test accuracy of 85%**. The goal is to identify and classify different land cover types such as buildings, roads, vegetation, and more at the pixel level.
 
+
+<img src="example/image.png" width="400"/>
+
+
 ## 📂 Dataset
 
 The dataset consists of high-resolution aerial or satellite images annotated for semantic segmentation. Each image is paired with a mask that assigns a class label to every pixel.
