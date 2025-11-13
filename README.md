@@ -1,5 +1,5 @@
 # Semantic segmentation of satellite imagery
-This repository implements **semantic segmentation** on high-resolution **satellite imagery** using the **U-Net architecture**, achieving a **test accuracy of 85%**. The goal is to identify and classify different land cover types such as buildings, roads, vegetation, and more at the pixel level.
+This repository implements **semantic segmentation** on high-resolution **satellite imagery** using the **U-Net architecture**, achieving a **test accuracy of 86%**. The goal is to identify and classify different land cover types such as buildings, roads, vegetation, and more at the pixel level.
 
 
 
