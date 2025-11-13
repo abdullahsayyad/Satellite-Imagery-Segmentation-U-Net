@@ -41,13 +41,11 @@ U-Net is a convolutional neural network architecture originally designed for bio
 ## ✅ Results
 
 -   **Test Accuracy**: **85%**
-    
--   **Evaluation Metric**: Pixel-wise accuracy and Intersection over Union (IoU)
 
 
 ## 📈 Metrics
 
--   **Accuracy**: 85%
+-   **Accuracy**: 86%
     
 -   **Loss Function**: Categorical Cross-Entropy
     
